@@ -1,0 +1,3 @@
+sample_id	filename	subject_id	species	pcr_target_locus	tissue	sex	age	biomaterial_provider	single_cell	time_point
+7742-LI-2-G1	airr_rearrangement-2.tsv	s7742	human	TR	blood	NA	NA	peters_lab	TRUE	D0
+7742-LI-4-G1	airr_rearrangement-5.tsv	s7742	human	TR	blood	NA	NA	peters_lab	TRUE	D7

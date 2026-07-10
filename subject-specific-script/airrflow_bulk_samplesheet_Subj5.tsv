@@ -1,3 +1,0 @@
-sample_id	filename	subject_id	species	pcr_target_locus	tissue	sex	age	biomaterial_provider	single_cell	time_point
-7742-LI-2	/vast/palmer/pi/kleinstein/bhs27/CMI-Flu/data/7742-LI-2/airr_rearrangement.tsv	s7742	human	TR	blood	NA	NA	peters_lab	TRUE	D0
-7742-LI-4	/vast/palmer/pi/kleinstein/bhs27/CMI-Flu/data/7742-LI-4/airr_rearrangement.tsv	s7742	human	TR	blood	NA	NA	peters_lab	TRUE	D7
