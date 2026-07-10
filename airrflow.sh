@@ -17,7 +17,7 @@ nextflow run nf-core/airrflow -r 5.1.0 \
 -profile singularity \
 --mode assembled \
 -c immcantation.config \
---input airrflow_tcr_samplesheet_kleinstein.tsv \
+--input airrflow_bulk_samplesheet.tsv \
 --outdir output3 \
 --clonal_threshold 0 \
 -w work \
