@@ -16,9 +16,9 @@ nextflow pull nf-core/airrflow -r 5.1.0
 nextflow run nf-core/airrflow -r 5.1.0 \
 -profile singularity \
 --mode assembled \
--c /mnt/data/bouchet_data/CMI-Flu-tcr-data/script/immcantation.config \
---input /mnt/data/bouchet_data/CMI-Flu-tcr-data/script/airrflow_tcr_samplesheet_kleinstein.tsv \
---outdir /mnt/data/bouchet_data/CMI-Flu-tcr-data/output3 \
+-c immcantation.config \
+--input airrflow_tcr_samplesheet_kleinstein.tsv \
+--outdir output3 \
 --clonal_threshold 0 \
--w /mnt/data/bouchet_data/CMI-Flu-tcr-data/work \
+-w work \
 -resume
